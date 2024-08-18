@@ -1,4 +1,4 @@
 # apanacolage-demo
-this is my  demo github reposetory
+this is my first github reposetory
 <br>
 Author - Zhankrut Verma
